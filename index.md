@@ -36,7 +36,7 @@ _Central Reservation Hotel IT (2007 - 2008)_
 
  * Developed various topics for inventory & reservation system in Java/C++ SOA environment
 
-_Troughout_
+_Throughout_
 
 * 'Evangelist' of Big Data technologies: technical presentations for senior management, organizing workshops and writing internal white papers
 * Follow up and prototype emerging IT technologies and understand impact on business
