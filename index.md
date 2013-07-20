@@ -62,18 +62,18 @@ _Electronic Tooling Systems_
  * Created library with 'set operations' on polygons to speed up rasterization by factor 100
  * Co-developed client-server version of CAD/CAM using Iona Corba technologies (IDL, Java, C++)
 
-### Languages
+## Languages
 
 * Fluent Dutch, French and English
 
-### Training / Certificates
+## Training / Certificates
 
 * Design Patterns
 * Advanced C++
 * Advanced C++ template programming
 * [Coursera Machine Learning](https://class.coursera.org/ml/class/index)
 
-### Personal Projects
+## Personal Projects
 
 * Contributor to https://github.com/opentraveldata (referential data)
 * Personal ongoing side projects on https://github.com/pauldeschacht
@@ -81,7 +81,7 @@ _Electronic Tooling Systems_
  + automatically extract tabular data from PDF files
  + small experiments with Cloudera's Impala engine
 
-### Skills
+## Skills
 
 _Programming languages_ 
 * C/C++, Java, Python, PHP, strong interest in Clojure
