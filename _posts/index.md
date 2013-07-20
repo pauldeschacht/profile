@@ -1,3 +1,8 @@
+---
+layout: post
+title: Resume
+---
+
 # Paul De Schacht [![LinkedIn profile][1]][2] 
 [1]: http://s.c.lnkd.licdn.com/scds/common/u/images/logos/logo_in_flat_43x34.png (My LinkedIn Profile)
 [2]: http://fr.linkedin.com/in/pauldeschacht/
