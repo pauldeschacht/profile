@@ -8,15 +8,15 @@ title: Resume
 [2]: http://fr.linkedin.com/in/pauldeschacht/
 <pauldeschacht@gmail.com> 
 
-#### Education
+### Education
 
 * [MBA EDHEC](http://www.edhec-mba.com), 2004, focus on IT & Knowledge Management 
 * MSc Computer Science with distinction, 1996, [Catholic University Leuven](http://www.kuleuven.be/english), Belgium
 * BSc Computer Science 1994, Catholic University Leuven
 
-#### Experience
+### Experience
 
-##### 2007 - present, Research Engineer, [Amadeus](http://www.amadeus.com)
+#### 2007 - present, Research Engineer, [Amadeus](http://www.amadeus.com)
 
 _Travel Intelligence (2012 - present)_
 
@@ -41,20 +41,20 @@ _Troughout_
 * 'Evangelist' of Big Data technologies: technical presentations for senior management, organizing workshops and writing internal white papers
 * Follow up and prototype emerging IT technologies and understand impact on business
 
-##### 2004 - 2007, founder and CTO, TeleOS
+#### 2004 - 2007, founder and CTO, TeleOS
 
 _TeleOS' goal is to bring health care experience to remote locations_
 
 * Responsible for vision and technical implementation
 * Build web based medical record system linked with PBX to monitor patient's pain levels and automatically raise alerts to healthcare experts (LAMP, MySQL, C++, [Asterisk](http://www.asterisk.org/))
 * Implemented software for medical urgency laptop to upload data (cardio frequency, oxymeter, bloodpressure) to health care experts with video link (based on VLC). In collaboration with Alcatel Aliena Space for satellite infrastructure (Java)
- 
-##### 2001 - 2003, Memsoft, Software Engineer
+
+#### 2001 - 2003, Memsoft, Software Engineer
 
 * Replaced proprietary database with relational database (C++, ODBC) in product suite. 
 * Introduced continuous build and improved significantly the quality of the products
 
-##### 1997 - 2001, Barco, Research Engineer
+#### 1997 - 2001, Barco, Research Engineer
 
 _Electronic Tooling Systems_
 
@@ -62,18 +62,18 @@ _Electronic Tooling Systems_
  * Created library with 'set operations' on polygons to speed up rasterization by factor 100
  * Co-developed client-server version of CAD/CAM using Iona Corba technologies (IDL, Java, C++)
 
-#### Languages
+### Languages
 
 * Fluent Dutch, French and English
 
-#### Training / Certificates
+### Training / Certificates
 
 * Design Patterns
 * Advanced C++
 * Advanced C++ template programming
 * [Coursera Machine Learning](https://class.coursera.org/ml/class/index)
 
-#### Personal Projects
+### Personal Projects
 
 * Contributor to https://github.com/opentraveldata (referential data)
 * Personal ongoing side projects on https://github.com/pauldeschacht
@@ -81,7 +81,7 @@ _Electronic Tooling Systems_
  + automatically extract tabular data from PDF files
  + small experiments with Cloudera's Impala engine
 
-#### Skills
+### Skills
 
 _Programming languages_ 
 * C/C++, Java, Python, PHP, strong interest in Clojure
