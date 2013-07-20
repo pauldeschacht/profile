@@ -98,4 +98,3 @@ _Methodologies_
 
 _Tools_
 * vi, Emacs, git, shell (grep, awk, grep, sed)
-
