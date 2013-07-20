@@ -8,15 +8,15 @@ title: Resume
 [2]: http://fr.linkedin.com/in/pauldeschacht/
 <pauldeschacht@gmail.com> 
 
-### Education
+## Education
 
 * [MBA EDHEC](http://www.edhec-mba.com), 2004, focus on IT & Knowledge Management 
 * MSc Computer Science with distinction, 1996, [Catholic University Leuven](http://www.kuleuven.be/english), Belgium
 * BSc Computer Science 1994, Catholic University Leuven
 
-### Experience
+## Experience
 
-#### 2007 - present, Research Engineer, [Amadeus](http://www.amadeus.com)
+### 2007 - present, Research Engineer, [Amadeus](http://www.amadeus.com)
 
 _Travel Intelligence (2012 - present)_
 
@@ -49,12 +49,12 @@ _TeleOS' goal is to bring health care experience to remote locations_
 * Build web based medical record system linked with PBX to monitor patient's pain levels and automatically raise alerts to healthcare experts (LAMP, MySQL, C++, [Asterisk](http://www.asterisk.org/))
 * Implemented software for medical urgency laptop to upload data (cardio frequency, oxymeter, bloodpressure) to health care experts with video link (based on VLC). In collaboration with Alcatel Aliena Space for satellite infrastructure (Java)
 
-#### 2001 - 2003, Memsoft, Software Engineer
+### 2001 - 2003, Memsoft, Software Engineer
 
 * Replaced proprietary database with relational database (C++, ODBC) in product suite. 
 * Introduced continuous build and improved significantly the quality of the products
 
-#### 1997 - 2001, Barco, Research Engineer
+### 1997 - 2001, Barco, Research Engineer
 
 _Electronic Tooling Systems_
 
