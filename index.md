@@ -11,7 +11,7 @@ title: Resume
 #### Education
 
 * [MBA EDHEC](http://www.edhec-mba.com), 2004, focus on IT & Knowledge Management 
-* MSc Computer Science with distinction, 1996, [Catholic University Leuven](http://www.kuleuven.be/english)
+* MSc Computer Science with distinction, 1996, [Catholic University Leuven](http://www.kuleuven.be/english), Belgium
 * BSc Computer Science 1994, Catholic University Leuven
 
 #### Experience
