@@ -99,6 +99,7 @@ header {
   width:270px;
   float:left;
   position:fixed;
+  display: none;
 }
 
 header ul {
@@ -160,8 +161,8 @@ header ul a strong {
 }
 
 section {
-  width:500px;
-  float:right;
+  width:670px;
+  float:left;
   padding-bottom:50px;
 }
 
@@ -179,7 +180,6 @@ hr {
 footer {
   width:270px;
   float:left;
-  position:fixed;
   bottom:50px;
 }
 
