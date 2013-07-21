@@ -252,7 +252,7 @@ footer {
 
 @media print {
   h1 {
-    font-size:18px;
+    font-size:20px;
     text-align: center;
   }
   h2 {
@@ -265,7 +265,7 @@ footer {
   color:#000;
   font-weight:400;
   text-decoration:none;
-  border-bottom: 1px dotted #000;
+  border-bottom: 1px dotted #AAA;
   display: inline;
 }
   body {
@@ -288,7 +288,7 @@ footer {
   }
   h3, h4, h5, h6 {
     color:#000;
-    margin:0 0 0px;
+    margin:0 0 5px;
   }
   h3 {
     margin-top: 5px;
